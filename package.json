@@ -15,12 +15,15 @@
     "type": "git",
     "url": "git+https://github.com/KenLSM/STePSMaintenance.git"
   },
+  "engines": {
+    "node": "8.*"
+  },
   "keywords": [
     "maintenance",
     "steps-web"
   ],
   "author": "KenLSM",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/KenLSM/STePSMaintenance/issues"
   },
