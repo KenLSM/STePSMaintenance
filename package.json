@@ -1,0 +1,28 @@
+{
+  "name": "steps-maintenance",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "ls": "^0.2.1",
+    "serve": "^6.5.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "serve -p 7000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KenLSM/STePSMaintenance.git"
+  },
+  "keywords": [
+    "maintenance",
+    "steps-web"
+  ],
+  "author": "KenLSM",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KenLSM/STePSMaintenance/issues"
+  },
+  "homepage": "https://github.com/KenLSM/STePSMaintenance#readme"
+}
